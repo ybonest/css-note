@@ -19,13 +19,19 @@
       name: 'CSS笔记',
       repo: '',
       basePath: './docs/',
-      loadSidebar: true,
       loadSidebar: '../_sidebar.md',
       coverpage: '../_coverpage.md',
       subMaxLevel: 2,
       autoHeader:true,
       homepage:'../README.md',
-      coverpage: true
+      auto2top: true,
+      coverpage: true,
+      search: {
+        maxAge: 86400000,
+        paths: 'auto',
+        // 搜索标题的最大程级, 1 - 6
+        depth: 3
+      }
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
