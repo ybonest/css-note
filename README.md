@@ -1,6 +1,6 @@
 # CSS开发笔记
 
-> 该文档用来记录日常开发中，CSS方面所遇所见所想
+> 更新日期：{docsify-updated}
 
 ```
 github仓库地址：
