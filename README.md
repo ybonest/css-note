@@ -3,6 +3,6 @@
 > 更新日期：{docsify-updated}
 
 ```
-访问地址地址：https://ybonest.github.io/css-note
+github地址：https://github.com/ybonest/css-note.git
 ```
 
